@@ -1,1 +1,1 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=nikhil-69)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Nikhil-69)  
